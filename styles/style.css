@@ -1,0 +1,26 @@
+html {
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+body {
+    margin: auto;
+    align-content: center;
+    background-color: orange;
+    padding 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    text-align: center;
+    display: block;
+    margin: 0;
+    padding: 20px 0;
+    color: blue;
+    text-shadow: 3px 3px 3px 0;
+}
+p {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: red;
+}
